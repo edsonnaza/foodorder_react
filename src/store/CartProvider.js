@@ -41,3 +41,5 @@ const CartProvider = props => {
             {props.children}
     </CartContext.Provider>)
 }
+
+export default CartProvider;
